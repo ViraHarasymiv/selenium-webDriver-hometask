@@ -17,7 +17,7 @@ Prepare a test method with the following scenario.
  - [Selenium-java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)
  - [TestNG](https://mvnrepository.com/artifact/org.testng/testng)
  
-- Rub test:
+- Run test:
 ```shell
 mvn clean test
 ```
